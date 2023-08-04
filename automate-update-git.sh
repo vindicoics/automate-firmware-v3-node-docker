@@ -1,1 +1,1 @@
-sudo git pull https://github.com/vindicoics/automate-firmware-v3-controller-docker.git
+sudo git pull https://github.com/vindicoics/automate-firmware-v3-node-docker.git
